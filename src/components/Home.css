@@ -1,0 +1,36 @@
+.jumbotron {
+  margin-bottom: 4em;
+  padding: 5%;
+ 
+}
+.person-wrapper {
+  margin-bottom: 2em;
+}
+
+.profile-pic {
+  width: 50%;
+}
+
+.btn-primary {
+  background-image: none;
+  border: none;
+  border-radius: 0;
+  background-color: rgb(218, 45, 45);
+}
+
+h3,h4 {
+  margin-bottom: 1em;
+  color: rgb(124, 15, 15);
+}
+.input-group{
+  margin-bottom: 5%;
+}
+#mensaje{
+  margin-top: 10%;
+}
+#formControlsText{
+  margin-top: 9%;
+}
+#submit{
+  margin-top:9%;
+}
